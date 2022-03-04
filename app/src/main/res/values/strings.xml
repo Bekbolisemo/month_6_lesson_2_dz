@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">month_6_lesson_2_dz</string>
+    <string name="submit">submit</string>
+    <string name="random">Random</string>
+    <string name="save">save</string>
+    <string name="edit_empty">edit text empty</string>
+    <string name="random1">random</string>
+    <string name="todo">TODO</string>
+</resources>
